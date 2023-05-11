@@ -18,5 +18,10 @@
   },
   "devDependencies": {
     "prisma": "^4.13.0"
-  }
+  },
+  "main": "app.js",
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": ""
 }
